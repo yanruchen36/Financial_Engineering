@@ -6,7 +6,7 @@
 * 付款公式
 * 介面製作
 * 使用說明  
-![image](HW1/gui1.png)
+![image](https://github.com/yanruchen36/Financial_Engineering-/blob/master/HW1/gui1.png)
 
 
 ## 流程圖
