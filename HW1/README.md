@@ -3,9 +3,12 @@
 
 ## 學習歷程
 
-* 付款公式
-* 介面製作
-* 使用說明  
+* 付款公式  
+* 介面製作  
+* 使用說明 
+  1. 輸入本金、期數和年利率後，按下送出。
 <div align=center><img width="300" height="300" src="https://github.com/yanruchen36/Financial_Engineering-/blob/master/HW1/gui1.png"/></div>
+  2. 即可得到本金攤還試算結果。  
+  3. 上下滾動查看。
 
 ## 流程圖
