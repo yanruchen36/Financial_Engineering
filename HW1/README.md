@@ -11,6 +11,6 @@
   2. 即可得到本金攤還試算結果。  
   <div align=center><img width="300" height="300" src="https://github.com/yanruchen36/Financial_Engineering-/blob/master/HW1/gui2.png"/></div>
   3. 上下滾動查看。
-  <div align=center><img width="300" height="300" src="https://github.com/yanruchen36/Financial_Engineering-/blob/master/HW1/gui3.png"/></div3
+  <div align=center><img width="300" height="300" src="https://github.com/yanruchen36/Financial_Engineering-/blob/master/HW1/gui3.png"/></div>  
 
 ## 流程圖
