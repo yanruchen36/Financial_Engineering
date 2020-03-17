@@ -25,4 +25,7 @@
   3. 上下滾動查看。
   <div align=center><img width="300" height="300" src="https://github.com/yanruchen36/Financial_Engineering-/blob/master/HW1/gui3.png"/></div>  
 
-## 流程圖
+## 流程圖    
+    
+  <div align=center><img width="300" height="300" src="https://github.com/yanruchen36/Financial_Engineering-/blob/master/HW1/Untitled%20Diagram.png"/></div>
+
