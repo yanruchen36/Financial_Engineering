@@ -27,5 +27,5 @@
 
 ## 流程圖    
     
-  <div align=center><src="https://github.com/yanruchen36/Financial_Engineering-/blob/master/HW1/Untitled%20Diagram.png"/></div>
+  <div align=center><img width="150" height = "600"   src="https://github.com/yanruchen36/Financial_Engineering-/blob/master/HW1/Untitled%20Diagram.png"/></div>
 
