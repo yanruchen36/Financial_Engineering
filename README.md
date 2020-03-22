@@ -27,7 +27,9 @@ week3
 * normal curve  
 forward rate curve 高於 spot rate curve 高於 yield curve，因為spot rate是從yield curve單利計算來的，單利會比富麗高一些。forward rate是遠期某一段，一般之下遠期比較有價值。  
 * inverted curve
-(以上兩個比較常見)  
+(以上兩個比較常見) 
+
+[上課資料](http://greenhornfinancefootnote.blogspot.com/2010/08/how-to-compute-forward-rates-from.html)
 
 
 ## Homework
