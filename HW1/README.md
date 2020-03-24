@@ -28,6 +28,9 @@
     * 新增每月應攤還本金格  
     * 變數定義寫註解說明清楚  
     
+  * 尚未修正  
+    * 流程圖  
+    
 ## 使用說明 
   1. 輸入本金、期數和年利率後，按下送出。
 <div align=center><img width="300" height="300" src="https://github.com/yanruchen36/Financial_Engineering-/blob/master/HW1/gui1.png"/></div>
