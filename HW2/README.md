@@ -10,13 +10,16 @@
   
   第一步要先找ytm，用for迴圈去找到。  
   
-  * 即期利率 Spot rate  
+   * 即期利率 Spot rate  
   
-  * 遠期利率 Forward rate  
+   * 遠期利率 Forward rate  
   
   [如何由債券殖利率算出理論即期利率](http://greenhornfinancefootnote.blogspot.com/2010/06/how-to-compute-theoretical-spot-rates.html)  
   [如何由理論即期利率算出遠期利率](http://greenhornfinancefootnote.blogspot.com/2010/08/how-to-compute-forward-rates-from.html)  
   
+ * 三者關係  
+ 
+  ytm = weighted average spot rate
   
   
  　
