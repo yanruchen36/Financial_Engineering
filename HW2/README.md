@@ -13,12 +13,16 @@
   
    * 即期利率 Spot rate  
    
+   [參考](https://www.trignosource.com/finance/spot%20rate.html#Calculator)
+   
    zero coupon bond 的到期殖利率 = 即期利率  
    > zero coupon bond 即在到期日前不給付利息，只在到期日給付說好的金額  
    
    
   
    * 遠期利率 Forward rate  
+  
+    [參考](https://www.trignosource.com/finance/Forward%20rate.html#Calculator)
   
   [如何由債券殖利率算出理論即期利率](http://greenhornfinancefootnote.blogspot.com/2010/06/how-to-compute-theoretical-spot-rates.html)  
   [如何由理論即期利率算出遠期利率](http://greenhornfinancefootnote.blogspot.com/2010/08/how-to-compute-forward-rates-from.html)  
