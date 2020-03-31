@@ -12,6 +12,11 @@
   
   
    * 即期利率 Spot rate  
+   
+   zero coupon bond 的到期殖利率 = 即期利率  
+   > zero coupon bond 即在到期日前不給付利息，只在到期日給付說好的金額  
+   
+   
   
    * 遠期利率 Forward rate  
   
