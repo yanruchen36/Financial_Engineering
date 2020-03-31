@@ -1,6 +1,8 @@
 ## Homework 2    
 
 * [ytm計算程式碼](https://github.com/yanruchen36/Financial_Engineering/blob/master/HW2/hw2ytm%E8%A8%88%E7%AE%97.py)  
+* [Spot Rate 計算程式碼](https://github.com/yanruchen36/Financial_Engineering/blob/master/HW2/spotrate%E8%A8%88%E7%AE%97.py)  
+
 
 # 學習歷程  
 
@@ -22,7 +24,7 @@
   
    * 遠期利率 Forward rate  
   
-    [參考](https://www.trignosource.com/finance/Forward%20rate.html#Calculator)
+   [參考](https://www.trignosource.com/finance/Forward%20rate.html#Calculator)
   
   [如何由債券殖利率算出理論即期利率](http://greenhornfinancefootnote.blogspot.com/2010/06/how-to-compute-theoretical-spot-rates.html)  
   [如何由理論即期利率算出遠期利率](http://greenhornfinancefootnote.blogspot.com/2010/08/how-to-compute-forward-rates-from.html)  
