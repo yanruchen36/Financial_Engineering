@@ -24,4 +24,6 @@
   ytm = weighted average spot rate
   
   
- 　
+# 流程圖  
+
+  <div align=center><src="https://github.com/yanruchen36/Financial_Engineering/blob/master/HW2/ytm%E6%B5%81%E7%A8%8B%E5%9C%96.png"/></div>　　
