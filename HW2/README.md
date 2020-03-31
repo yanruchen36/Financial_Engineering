@@ -1,6 +1,6 @@
 ## Homework 2    
 
-* [ytm計算](https://github.com/yanruchen36/Financial_Engineering/blob/master/HW2/hw2ytm%E8%A8%88%E7%AE%97.py)  
+* [ytm計算程式碼](https://github.com/yanruchen36/Financial_Engineering/blob/master/HW2/hw2ytm%E8%A8%88%E7%AE%97.py)  
 
 # 學習歷程  
 
