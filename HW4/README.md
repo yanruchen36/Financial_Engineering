@@ -9,5 +9,8 @@ If r = 6%, what is the value of a European put and call option with an exercise 
 
 ## 學習歷程  
 
+* Black-Scholes  
+![image](https://github.com/yanruchen36/Financial_Engineering/blob/master/HW4/hw4.PNG)  
+
 
 ## 流程圖  
