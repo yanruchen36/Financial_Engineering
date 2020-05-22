@@ -34,4 +34,8 @@ forward rate curve 高於 spot rate curve 高於 yield curve，因為spot rate�
 
 ## Homework
 * [HW1](https://github.com/yanruchen36/Financial_Engineering/blob/master/HW1)
-* [HW2](https://github.com/yanruchen36/Financial_Engineering/blob/master/HW2)
+* [HW2](https://github.com/yanruchen36/Financial_Engineering/blob/master/HW2)  
+* [HW3](https://github.com/yanruchen36/Financial_Engineering/tree/master/HW3)  
+* [HW4](https://github.com/yanruchen36/Financial_Engineering/tree/master/HW4)  
+* [HW5](https://github.com/yanruchen36/Financial_Engineering/tree/master/HW5)  
+
