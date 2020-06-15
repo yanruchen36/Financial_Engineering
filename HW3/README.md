@@ -20,3 +20,18 @@ What is the call/put value? Or what is the PV of the expected payoff at expirati
 一開始有當期資產價格，利用BOPM求出到期的股價、期權價格後，從最後一個階段開始分析，逐步向前歸納出當期期權價格。  
     [參考](https://wiki.mbalib.com/zh-tw/%E9%80%86%E5%90%91%E5%BD%92%E7%BA%B3%E6%B3%95)
   
+  
+* 遞迴法   
+加入遞迴法去寫程式碼  
+讓它自己呼叫自己  
+遞迴法例子：階層  
+def factorial(z):
+    if z == 0 or z == 1:
+        return 1
+    else:
+        return z*factorial(z - 1)  
+        
+    [參考](https://medium.com/ccclub/ccclub-python-for-beginners-tutorial-11ed5d300d3d)  
+    
+    
+  
