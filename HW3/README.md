@@ -26,10 +26,10 @@ What is the call/put value? Or what is the PV of the expected payoff at expirati
 讓它自己呼叫自己  
 遞迴法例子：階層  
 def factorial(z):   
-    if z == 0 or z == 1:    
-        return 1    
-    else:     
-        return z*factorial(z - 1)   
+       if z == 0 or z == 1:    
+             return 1    
+       else:     
+             return z*factorial(z - 1)   
         
     [參考](https://medium.com/ccclub/ccclub-python-for-beginners-tutorial-11ed5d300d3d)  
     
