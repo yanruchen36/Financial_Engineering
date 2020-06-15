@@ -31,7 +31,7 @@ What is the call/put value? Or what is the PV of the expected payoff at expirati
        else:     
              return z*factorial(z - 1)   
         
-    [參考](https://medium.com/ccclub/ccclub-python-for-beginners-tutorial-11ed5d300d3d)  
+ [參考](https://medium.com/ccclub/ccclub-python-for-beginners-tutorial-11ed5d300d3d)  
     
     
   
