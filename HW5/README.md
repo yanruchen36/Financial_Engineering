@@ -18,3 +18,5 @@
 
 * Geometric Brownian Motion     
 幾何布朗運動（英語：geometric Brownian motion, GBM），也叫做指數布朗運動（英語：exponential Brownian motion）是連續時間情況下的隨機過程，其中隨機變量的對數遵循布朗運動，[1]也稱維納過程。幾何布朗運動在金融數學中有所應用，用來在布萊克-舒爾斯定價模型中模仿股票價格。    
+
+[蒙地卡羅模擬法與選擇權定價](https://allanhsu83117.github.io/2017/11/monte-carlo-and-options-pricing/)  
