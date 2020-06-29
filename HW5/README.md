@@ -13,4 +13,6 @@
 * Monte Carlo method   
   蒙地卡羅方法（英語：Monte Carlo method），也稱統計類比方法，是1940年代中期由於科學技術的發展和電腦的發明，而提出的一種以機率統計理論為指導的數值計算方法。是指使用亂數（或更常見的偽亂數）來解決很多計算問題的方法。    
 * Hull White Model  
-* Geometric Brownian Motion 
+是利率模型的一種。此模型中、為了把未來利率的變動變換成數學上較簡潔的Lattice model，將利率當作百慕達選擇權（選擇權存續期間中設定複數個期間，在這些期間可以執行的選擇權），以此便能將利率的變動價值以選擇權模評價型來評價。    
+* Geometric Brownian Motion     
+幾何布朗運動（英語：geometric Brownian motion, GBM），也叫做指數布朗運動（英語：exponential Brownian motion）是連續時間情況下的隨機過程，其中隨機變量的對數遵循布朗運動，[1]也稱維納過程。幾何布朗運動在金融數學中有所應用，用來在布萊克-舒爾斯定價模型中模仿股票價格。    
